@@ -121,3 +121,5 @@ C implementation of the same NES controller functionality.
 - [NES Controller Protocol](https://www.nesdev.org/wiki/Controller_reading_code)
 - [CD4094BE Datasheet](https://www.ti.com/product/CD4094B)
 - [MPLAB X IDE](https://www.microchip.com/mplab/mplab-x-ide)
+
+![nes_controller_project](https://github.com/user-attachments/assets/c4c33a18-e18a-452d-b1eb-1e87a6a5ad3c)
